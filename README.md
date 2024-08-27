@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-gupta-code&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-gupta-code" /> </p>
 
-- 🔭 I’m currently working on **Available_Stock_Item**
+- 🔭 I’m currently working on **Stock_HuB**
 
 
 <h3 align="left">Connect with me:</h3>
