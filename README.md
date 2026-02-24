@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🛠 IT Support Specialist | 🎓 MCA Pursuing
+💻 Full Stack Developer | 🛠 Technical Support Specialist | 🎓 MCA Pursuing
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Freelance+Full+Stack+Developer;MERN+Stack+Specialist;IT+Support+%26+System+Troubleshooting;Building+Secure+%26+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=750&lines=Freelance+Full+Stack+Developer;MERN+Stack+Specialist;Technical+Support+%26+System+Troubleshooting;Building+Secure+%26+Scalable+Applications" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🔭 Currently working as a **Freelance Full Stack Developer**
 - 🎓 Pursuing **MCA (Master of Computer Applications)**
-- 🛠 Strong background in **IT Support & System Troubleshooting**
+- 🛠 Strong expertise in **Technical Support & IT Troubleshooting**
 - 🔐 Experienced in Secure REST APIs, JWT & Role-Based Access Control
 - 🚀 Focused on performance, scalability & clean architecture
 
@@ -27,14 +27,19 @@
 ### 🌐 Web Development
 - MERN Stack (MongoDB, Express, React, Node)
 - REST APIs & Authentication
+- Role-Based Access Control (RBAC)
 - Responsive UI & Modern UX
 - Deployment (Vercel, GitHub)
 
-### 🛠 IT Support
-- System Installation & Troubleshooting
-- Network Basics & Configuration
-- Software & Hardware Issue Resolution
-- User Support & Client Handling
+### 🛠 Technical Support & IT Skills
+- Windows OS Installation & Configuration
+- Software Installation & Troubleshooting
+- Hardware Diagnostics & Issue Resolution
+- Basic Networking & IP Configuration
+- Printer & Peripheral Setup
+- System Performance Optimization
+- Remote Support Assistance
+- Client Handling & End-User Support
 
 ---
 
@@ -47,11 +52,6 @@
 ---
 
 ## 📊 GitHub Performance
-
-<!-- <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaTiN-GuPTa-CoDe&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaTiN-GuPTa-CoDe&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaTiN-GuPTa-CoDe&theme=tokyonight&hide_border=true"/>
@@ -90,4 +90,4 @@
 
 ---
 
-<h3 align="center">⚡ Code With Jatin | Building Technology That Solves Real Problems</h3>
+<h3 align="center">⚡ Code With Jatin | Bridging Development & Technical Support</h3>
