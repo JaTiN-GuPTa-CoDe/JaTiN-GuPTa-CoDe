@@ -74,13 +74,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/jatin-gupta-code">
+<a href="https://www.linkedin.com/in/jatin-gupta673">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/code_wth_jatin">
+<a href="https://instagram.com/jatin_gupta_official25">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:your-jating673@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
